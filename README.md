@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 - www.linkedin.com/in/mahmoud-ebrahim217
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love cats/
+- ⚡ Fun fact: I love cats.
 
 <!---
 bandito19/bandito19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

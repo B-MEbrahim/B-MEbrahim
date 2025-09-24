@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/twenty-one-pilots/images/4/40/Trash_The_Dragon.png/revision/latest/scale-to-width-down/1200?cb=20250304031113" alt="Trash the Dragon" width="1000" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mahmoud Ebrahim</h1>
 <h3 align="center">Teaching Machines to Learn</h3>
 
@@ -18,6 +22,4 @@
 </p>
 
 
-<p align="center">
-  <img src="https://static.wikia.nocookie.net/twenty-one-pilots/images/4/40/Trash_The_Dragon.png/revision/latest/scale-to-width-down/1200?cb=20250304031113" alt="Trash the Dragon" width="1000" />
-</p>
+

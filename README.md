@@ -18,3 +18,6 @@
 </p>
 
 
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/twenty-one-pilots/images/4/40/Trash_The_Dragon.png/revision/latest/scale-to-width-down/1200?cb=20250304031113" alt="Trash the Dragon" width="1000" />
+</p>

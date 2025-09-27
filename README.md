@@ -22,6 +22,3 @@
 </p>
 
 
-<p align="center">
-  <img src="https://static.wikia.nocookie.net/twenty-one-pilots/images/a/aa/Scaled_And_Icy_Animated_%281%29.gif/revision/latest?cb=20250728150558" alt="Trash the Dragon" width="1000" />
-</p>

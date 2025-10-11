@@ -20,7 +20,7 @@
 </a>
 </p>
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/your-username/your-repo/main/images/your-image.png](https://github.com/B-MEbrahim/B-MEbrahim/blob/main/stg_danger.png)" alt="Descriptive Alt Text" width="600"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/images/your-image.png" alt="Descriptive Alt Text" width="600"/>
 </p>
 
 

@@ -26,5 +26,5 @@
 </p>
 
 <p align="center">
-  <img src="http://dmaorg.info/found/15398642_14/img/c72347067926/ba_dge.jpg" />
+  <img src="http://dmaorg.info/found/15398642_14/img/5c4f137967cb/_.jpg" />
 </p>

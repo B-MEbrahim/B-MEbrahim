@@ -24,3 +24,7 @@
 <p align="center">
   <img src="http://dmaorg.info/found/15398642_14/img/09906c7b7508/3lurr.gif" alt="Animated GIF" width="900" />
 </p>
+
+<p align="center">
+  <img src="[images/profile-pic.png](https://github.com/B-MEbrahim/B-MEbrahim/blob/main/Adobe%20Express%20-%20file.png)" />
+</p>

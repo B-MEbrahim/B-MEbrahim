@@ -26,5 +26,5 @@
 </p>
 
 <p align="center">
-  <img src="[images/profile-pic.png](https://github.com/B-MEbrahim/B-MEbrahim/blob/main/Adobe%20Express%20-%20file.png)" />
+  <img src="https://github.com/B-MEbrahim/B-MEbrahim/blob/main/Adobe%20Express%20-%20file.png" />
 </p>

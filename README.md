@@ -24,7 +24,3 @@
 <p align="center">
   <img src="http://dmaorg.info/found/15398642_14/img/09906c7b7508/3lurr.gif" alt="Animated GIF" width="900" />
 </p>
-
-<p align="center">
-  <img src="http://dmaorg.info/found/15398642_14/img/5c4f137967cb/_.jpg" />
-</p>

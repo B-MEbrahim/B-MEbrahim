@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://static.wikia.nocookie.net/twenty-one-pilots/images/4/40/Trash_The_Dragon.png/revision/latest/scale-to-width-down/1200?cb=20250304031113" alt="Trash the Dragon" width="1000" />
 </p>
-
+background: #6F9A9B;
+background: radial-gradient(circle, rgba(111, 154, 155, 1) 0%,rgba(241, 149, 182, 1) 100%)
 <h1 align="center">Sahlo Folina</h1>
 
 ###

@@ -3,23 +3,18 @@
 </p>
 
 
-
-
-###
-
-
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/mahmoud-ebrahim217" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+
   <a href="https://discord.com/users/mahmoudebrahim0634" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  [![Apple Music](https://img.shields.io/badge/Apple%20Music-Listen-red?logo=apple)]((https://music.apple.com/profile/mahmoud821))
 
+  <a href="https://music.apple.com/profile/mahmoud821" target="_blank">
+    <img src="https://img.shields.io/badge/Apple%20Music-Profile-FA243C?style=for-the-badge&logo=applemusic&logoColor=white" height="25" alt="Apple Music logo" />
+  </a>
 </div>
 
 

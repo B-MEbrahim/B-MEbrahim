@@ -12,9 +12,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 
-  <a href="https://music.apple.com/profile/mahmoud821" target="_blank">
-    <img src="https://img.shields.io/badge/Apple%20Music-Profile-FA243C?style=for-the-badge&logo=applemusic&logoColor=white" height="25" alt="Apple Music logo" />
-  </a>
 </div>
 
 
